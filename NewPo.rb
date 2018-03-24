@@ -15,7 +15,7 @@
 #  po-util - The Ultimate Local Particle Experience for Linux and macOS
 # Copyright (C) 2017  Nathan Robinson
 
-class NewPo < Formula
+class Newpo < Formula
   desc "Particle Offline Utility: The Ultimate Local Particle Experience"
   homepage 'https://po-util.com'
   head 'https://github.com/nrobinson2000/homebrew-NewPo', :using => :git
