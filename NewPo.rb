@@ -30,7 +30,7 @@ class Newpo < Formula
     bash_completion.install "completion/po"
   end
 
-  def caveats; <<-EOS.undent
+  def caveats; <<~EOS
 
   In order to complete the installation of po-util,
   you must run 'po install'.
