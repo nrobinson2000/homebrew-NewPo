@@ -20,7 +20,7 @@ class Newpo < Formula
   homepage 'https://po-util.com'
   head 'https://github.com/nrobinson2000/homebrew-NewPo', :using => :git
   url 'https://github.com/nrobinson2000/po/archive/0.1.1.tar.gz'
-  sha256 '5903e4592bd5ff69633039d5af436a0c2812c4f67b6e93f42bb717bdf283fd28'
+  sha256 '0c54db7ba02816a477accc5c931d16f669641ad940caac0fe658a9953d08c8b9'
 
   def install
     bin.install 'po'
